@@ -4,18 +4,11 @@
 
 Sitemap 协议: https://www.sitemaps.org/protocol.html
 
-博客: [https://www.douyacun.com](https://www.douyacun.com)
-
-博客 sitemap: [https://www.douyacun.com/sitemap.xml](https://www.douyacun.com/sitemap.xml)
-
-Github: [https://github.com/douyacun/gositemap](https://github.com/douyacun/gositemap)
-
-pkg.go.dev: [https://pkg.go.dev/github.com/douyacun/gositemap](https://pkg.go.dev/github.com/douyacun/gositemap)
 
 ### Installation
 
 ```
-import "github.com/douyacun/gositemap"
+import "github.com/tonny-xu/gositemap"
 ```
 
 go语言实现的sitemap生成工具
