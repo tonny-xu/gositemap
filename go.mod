@@ -1,3 +1,3 @@
-module github.com/douyacun/gositemap
+module github.com/tonny-xu/gositemap
 
 go 1.13
